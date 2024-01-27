@@ -4,7 +4,7 @@
      key    = "state.tfstate"
      region = "us-west-2"
      profile = "jespo"
-     dynamodb_table= "firstprojecttable"
+     dynamodb_table = "firstprojecttable"
     }
 }
 
