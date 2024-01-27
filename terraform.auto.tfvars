@@ -1,4 +1,4 @@
 instance_type = "t2.micro"
-region = "us-west-2"
-ami_id = "ami-0cea098ed2ac54925"
+region = "us-east-2"
+ami_id = "ami-0cd3c7f72edd5b06d"
 name = "test"
